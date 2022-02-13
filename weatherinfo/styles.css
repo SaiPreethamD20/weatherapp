@@ -1,0 +1,7 @@
+body{
+    background-image: url('./images/cloud.jpg');
+}
+.center{
+   margin-left: auto;
+   margin-right: auto;
+}
